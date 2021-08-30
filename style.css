@@ -1,0 +1,41 @@
+body{
+background-image: url(./assets/snowfall.gif);
+background-color: black;
+}
+.first{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    text-shadow: 2px 2px 4px white;
+}
+hr{
+    color: white
+    ;
+    font-weight: bold;
+    text-shadow: white;
+}
+.main{
+    text-align: center;
+    color: white
+    ;
+}
+.imp{
+   
+    color: white;
+    text-align: center;
+   
+    text-shadow: 2px 2px 4px white;
+}
+.footer{
+    text-align: center;
+}
+.ist{
+    text-align: center;
+ color: yellow;
+    text-shadow: 2px 2px 4px white;
+}
+.snd{
+    text-align: center;
+    color: white;
+      
+}
